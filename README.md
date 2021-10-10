@@ -32,5 +32,5 @@ The Horieson Homepage was in need of improvement. <br/>
 ## Contributions
 Made by [Elijah Yniguez]
 
-### 2021 Horiseon, Inc.
+### © 2019 Horiseon Social Solution Services, Inc.
 
